@@ -1,7 +1,6 @@
 #!/bin/bash
 #
 # Author:  yeho <lj2007331 AT gmail.com>
-# Blog:  https://blog.linuxeye.com
 #
 # Installs a PPTP VPN-only system for CentOS
 
@@ -14,7 +13,6 @@ printf "
 #######################################################################
 #    LNMP/LAMP/LANMP for CentOS/RadHat 5+ Debian 6+ and Ubuntu 12+    #
 #            Installs a PPTP VPN-only system for CentOS               #
-# For more information please visit https://blog.linuxeye.com/31.html #
 #######################################################################
 "
 
