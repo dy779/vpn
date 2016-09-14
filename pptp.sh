@@ -7,7 +7,7 @@ rm -rf /etc/ppp
 wget https://raw.githubusercontent.com/dy779/vpn/master/dkms-2.0.17.5-1.noarch.rpm
 wget https://raw.githubusercontent.com/dy779/vpn/master/kernel_ppp_mppe-1.0.2-3dkms.noarch.rpm
 wget https://raw.githubusercontent.com/dy779/vpn/master/pptpd-1.3.4-1.rhel5.1.i386.rpm
-wget https://raw.githubusercontent.com/dy779/vpn/master/rpm/ppp-2.4.4-9.0.rhel5.i386.rpm
+wget https://raw.githubusercontent.com/dy779/vpn/master/ppp-2.4.4-9.0.rhel5.i386.rpm
 
 yum -y install make libpcap iptables gcc-c++ logrotate tar cpio perl pam tcp_wrappers
 rpm -ivh dkms-2.0.17.5-1.noarch.rpm
